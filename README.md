@@ -1,2 +1,0 @@
-# MbfX
-SUBSCRIBE yt MBEWLEGS
