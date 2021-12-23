@@ -46,6 +46,7 @@ $ Rozhak
 
 $ Mcybear× Team
 
-# Support Saya Dengan Follow Github and Facebook Saya (>•,•<)
+# Support Saya Dengan Follow Github and Facebook 
+  Saya ʕ×_×ʔ
 
 [•] https://www.facebook.com/profile.php?id=100076168329952
