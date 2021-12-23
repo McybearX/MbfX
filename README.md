@@ -44,4 +44,4 @@ $ Mcybear× Team
 
 # Support Saya Dengan Follow Github and Facebook Saya (>•,•<)
 
-[•] https://www.facebook.com/usup.mbew1
+[•] https://www.facebook.com/profile.php?id=100076168329952
