@@ -10,6 +10,8 @@ Script Crack Facebook yang dirawat seperti anak sendiri
 
 $ pkg update && pkg upgrade
 
+$ pkg install play-audio
+
 $ pkg install python
 
 $ pkg install git
@@ -36,14 +38,8 @@ $ python MbfX.py
 
 $ Salin Semua Teks Tanpa Menggunakan Tanda Dolar ($)
 
-# Thanks To 
-
+# Thanks to 
 $ Allah
-
-$ XNX Code Team
-
-$ Rozhak
-
 $ Mcybear× Team
 
 # Support Saya Dengan Follow Github and Facebook 
