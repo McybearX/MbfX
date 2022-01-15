@@ -1688,9 +1688,9 @@ def gabungkan2():
 
 # CRACK API
 def okeh():
-	os.system("play-audio .sound/ok.wav & ")
+	os.system("play-audio ok.wav & ")
 def cepeh():
-	os.system("play-audio .sound/cp.wav & ")
+	os.system("play-audio cp.wav & ")
 def api(uid,pwx,loop):
 	if "random" in random_gak:
 		ua = random.choice(kalo_random).replace("\n","")
