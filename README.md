@@ -1,7 +1,3 @@
-# HEM
-KALO MAU RECODE IZIN DULU YA GANTEENG!!! 
-
-
 # MbfX
 
 Script Crack Facebook yang dirawat seperti anak sendiri
